@@ -1,50 +1,43 @@
-Comandos no Comando no Windows
+# Resumo sobre Códigos no Git e GitHub:cat:
 
-dir
+## Comandos no executável Windows
 
-ls
+- dir (mostrar diretórios)
 
-mkdir
+- ls (listas arquivos dentro do diretório)
 
-cls
+- mkdir (criar um diretório)
 
-cd
+- cls/ ctrl+L (limpar tela)
 
-cd ..
+- cd nome do diretorio (abrir diretório)
 
-Comandos no Git
+- cd .. (retroceder ao diretório anterior um nível)
 
-git status
+## Comandos no Git Bash
 
-git commit
+- git status (mostrar arquivos não commitados)
 
-git commit -m ""
+- git commit -m "" (mensagem para comitar arquivos)
 
-git status
+- git add nomearquivo (adicionar arquivos para comitar)
 
-git add
+- git add * (adicionar todos arquivos para comitar)
 
-git add *
+- echo >
 
-git add nomeArquivo
+- ls -a (mostrar aquivo oculto)
 
-git commit -m "commit inicial"
+- mv (mover arquivos)
 
-echo >
+- git config --list (mostra informações do github)
 
-ls
+- git config --global --unset user.name (alteração de nome no git)
 
-ls -a (mostrar aquivo oculto)
+- git commit -m "adiciona index" (indexar o commit criado)
 
-mv 
-
-git config --list
-
-git config --global --unset user.name (alteração de nome no git)
-
-git commit -m "adiciona index" (indexar o commit criado)
-
-git push origin master (empurrar commit para o repositorio)
+- git push origin master (empurrar commit para o repositorio)
+- git pull origin main (trazer commit de volta que foi alterado para ser comitado e empurrado novamente)
 
 
 
