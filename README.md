@@ -1,5 +1,5 @@
-# Desafio Dio Git/Github - Estudos e Projetos
-Repositório Público para desafio Dio Git/Gituhub
+# Desafio Dio Git/GitHub - BootCamp Carrefour
+Repositório Público para desafio Dio Git/GitHub 
 
 ## Links Importantes:
 
