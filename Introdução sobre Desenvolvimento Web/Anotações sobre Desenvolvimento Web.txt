@@ -1,0 +1,121 @@
+Desenvolvimento Web
+
+Redes
+
+Backbone - grandes estruturas que gerenciam as redes.
+Ex:
+Empresas Telefonicas usam o backbone para repassar internet para o usuario final
+
+Ip Local Host
+
+127.0.0.1
+
+Ip F5pro
+177.53.143.142
+
+IP google
+2800.
+
+TCP/IP - protocolo de controle de transmissão
+
+Modelo de Camadas
+
+4 camadas
+1 - física (placa de rede, cabo de rede, placa wirelles)
+2 - Rede (ip)
+3 - Ttransporte (tcp)
+4 - Aplicação (ftp)
+
+Tcp x udp
+
+Udp (conexao rápida)
+Exemplo: Livestream
+
+tcp (conexao lenta)
+Exemplo: aplicativo de mensagens de texto
+
+Portas (ports)
+
+20: fts (envio de arquivos)
+22: ssh (conexão segura comandos)
+25: smtp (email)
+53: dns (tradutor de ip para nome)
+80: (requisição simples)
+443: requisição segura
+
+Modem - Modulator - demodulator
+
+Roteador - distribui internet para dispositivos
+
+Switch - distribui internet para apenas dispositivos solicitados
+
+Sms
+
+MMs
+
+conexoes moveis
+
+1G,2G (GSM),GPRS "2,5G",EDGE, 3G, 4G, 5G
+
+Wifi
+
+Empresa IEEE 
+
+802.11g
+802.11n
+
+Segurança
+WEP: chaves de 64 bits e de 128 bits
+WPA: chave trocada periodicamente
+WPA2: mais seguro
+
+Dispositivos de rede
+
+Browser
+
+cache - figuras, logos, links, gravadas no seu computador previamente instalados
+
+cookies - comportamento de visitas de sites e compras, usados em redes sociais,...
+
+pagina estática - sites parados
+
+paginas dinamicas - sites com muitas funcionalidades
+
+http:archive.org/web/
+
+Site
+
+Html caindo em desuso (linguagem de marcação)
+
+D/XHTML um pouco dinamicas
+
+Já não existe tanta diferença entre site e aplicativo
+
+Stacks (pilhas de tecnologia)
+Ambiente tecnologico com ferramentas disponíveis
+Softwares
+Lps
+caqpacidade e limitação de perfomance
+
+Front end
+
+parte da frente
+
+Jquery
+
+ui - user interface
+
+ux - user experience
+
+Back end
+
+parte de tras
+
+servidores, banco de dados
+
+My SQL, Oracle, PHP, Java, node,js
+
+
+
+
+
