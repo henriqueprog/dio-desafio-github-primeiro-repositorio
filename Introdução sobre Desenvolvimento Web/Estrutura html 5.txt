@@ -1,0 +1,12 @@
+<!DOCTYPE html>apenas diz ao navegador que ele está lidando com um arquivo do tipo HTML5
+<html> (tag de abertura)raiz do seu documento
+ <head>(tag de abertura)elementos que serão lidos pelo navegador
+ <meta>
+ <title>(tag de abertura)</title>(tag de fechamento)
+ </head>(tag de fechamento)
+ <body>(tag de abertura)conteúdo visível ao usuário: textos, imagens, vídeos.
+ </body>(tag de fechamento)
+</html> (tag de fechamento)
+
+<p></p> - inserir parágrafos ou imagens,...
+
